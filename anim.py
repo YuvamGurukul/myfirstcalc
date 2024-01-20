@@ -1,0 +1,12 @@
+from time import sleep as wait
+print('Hack Initiated')
+wait(0.2)
+print('loading dump')
+wait(0.5)
+print('cracking NSA...')
+wait(1)
+print('cracked')
+wait(0.8)
+print('loading nuclear launch codes...')
+wait(2)
+print('loaded')
